@@ -1,0 +1,25 @@
+body {
+  background-color: #000;
+}
+
+.controller {
+  background-image: url('dz.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 800px;
+  height: 500px;
+  position: relative;
+}
+
+/* Exemple : placer le bouton A */
+.button-a {
+  position: absolute;
+  left: 535px;
+  top: 335px;
+  width: 30px;
+  height: 30px;
+  background: rgba(0, 255, 0, 0.7);
+  border-radius: 50%;
+}
+
+/* Fais pareil pour B, X, Y, etc. */
