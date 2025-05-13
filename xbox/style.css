@@ -1,6 +1,6 @@
 .controller.xbox {
     background: url(manette.png);
-    background-repeat: no-repeat center;
+    background: no-repeat center;
     height: 630px;
     width: 750px;
     margin-left: -375px;
